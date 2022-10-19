@@ -2,6 +2,6 @@
 
 int main() {
 	printf("Hello GitWorld!\n");
-	printf("New branch changed\n");
+	printf("Hello New branch\n");
 	return 0;
 }
