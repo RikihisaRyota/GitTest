@@ -2,7 +2,7 @@
 
 int main() {
 	printf("Hello GitWorld!\n");
-	printf("New branch@changed\n");
-	printf("third breanch‚ÉC³\n");
+	printf("GitHub Clone changed\n");
+	printf("third breanchâ€šÃ‰ÂCÂÂ³\n");
 	return 0;
 }
